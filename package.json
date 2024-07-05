@@ -1,6 +1,6 @@
 {
   "name": "@mahabaleshwars/my-publish",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Testing for an issue",
   "main": "index.js",
   "scripts": {
