@@ -1,7 +1,7 @@
 {
   "name": "@mahabaleshwars/my-publish",
   "version": "1.0.0",
-  "description": "",
+  "description": "Testing for an issue",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
